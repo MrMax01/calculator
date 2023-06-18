@@ -8,7 +8,7 @@ The project of a simple calculator
 
 <img src="assets/calculator-screenshot.jpeg" height="400">
 
-### Try [Here!](https://mrmax01.github.io/rock-paper-scissors/)
+### Try [Here!](https://mrmax01.github.io/calculator/) 
 ## Description
 
 Takes both button clicks and keyboard numbers as input.
